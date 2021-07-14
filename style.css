@@ -1,17 +1,17 @@
 
 
 body {
-    background-color: rgb(0, 0, 0);
+    background-color: #000000);
   }
   
   h1 {
     font-family: 'Merriweather', serif;
-    color: rgb(255, 255, 255);
+    color: #ffffff;
     margin-left: 20px;
   }
 
   p {
     font-family: 'Merriweather', serif;
-    color: rgb(255, 255, 255);
+    color: #ffffff;
     margin-left: 20px;
   }
