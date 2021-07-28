@@ -2,7 +2,7 @@
 
 body {
   background-image: url("Pictures/TwitcT/air.pn");
-    background-color: rgb(75, 75, 75);
+    background-color: rgb(65, 65, 65);
   }
 
   #header {
@@ -32,7 +32,7 @@ body {
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
-  font-size: 17px;
+  font-size: 22px;
 }
 
 }
@@ -44,11 +44,21 @@ body {
     margin-left: 20px;
   }
 
+  a:hover {
+    color: rgb(233, 35, 35);
+  }
+
+}
+
+body {
+  margin: 0;
+}
+
+
   p {
       /* ALL paragraphs*/
       font-family: 'Inconsolata', monospace;
     color: rgb(255, 255, 255);
     margin-left: 20px;
+  
   }
-
- 
